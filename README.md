@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Anup Singh and I'm a Undergraduate student in Chemical Engineering at IIT Kanpur. I'm from Gorakhpur,Uttar Pradesh.
+My name is Anup Singh, and I'm an Undergraduate student in Chemical Engineering at IIT Kanpur.
 <br>You can find me on    [![LinkedIn][2.2]][2]
 
 ## 🔧 Technologies & Tools
@@ -11,7 +11,7 @@ My name is Anup Singh and I'm a Undergraduate student in Chemical Engineering at
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/App-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=database&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
 
